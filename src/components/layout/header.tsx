@@ -4,7 +4,7 @@ import { Layout, Space } from "antd";
 
 const Header = () => {
   const headerStyles: React.CSSProperties = {
-    background: "#f11373",
+    background: "#ffff",
     display: "flex",
     justifyContent: "flex-end",
     alignItems: "center",
